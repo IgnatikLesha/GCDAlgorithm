@@ -1,0 +1,4 @@
+D:\Visual Studio 2015\Projects\GCD\GCD\bin\Debug\GCD.dll
+D:\Visual Studio 2015\Projects\GCD\GCD\bin\Debug\GCD.pdb
+D:\Visual Studio 2015\Projects\GCD\GCD\obj\Debug\GCD.dll
+D:\Visual Studio 2015\Projects\GCD\GCD\obj\Debug\GCD.pdb
